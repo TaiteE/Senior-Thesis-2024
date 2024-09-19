@@ -1,7 +1,6 @@
 
 import numpy as np
 import matplotlib.pyplot as plt
-import scipy
 
 from numpy import pi, arange, zeros, append, savetxt, cos
 from numpy import random, loadtxt
