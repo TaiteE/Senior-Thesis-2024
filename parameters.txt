@@ -1,0 +1,28 @@
+#t_0
+0
+
+#t_obs
+1000
+
+#p
+1.42
+
+#p_dot
+#0.000012
+0
+
+#p_cos
+#3327
+0
+
+#amp
+0
+
+#phase shift
+0
+
+#duty cycle
+1
+
+#noise
+0
